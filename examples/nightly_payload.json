@@ -1,0 +1,13 @@
+{
+  "run_id": "nightly-2026-09-21",
+  "events": [
+    {
+      "shipment_id": "SHP-2048",
+      "occurred_at": "2026-09-21T01:00:00Z",
+      "kind": "exception",
+      "notes_url": "https://dispatch.example/events/SHP-2048",
+      "proof": null,
+      "exception_code": "WEATHER_HOLD"
+    }
+  ]
+}
